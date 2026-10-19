@@ -14,3 +14,12 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+
+## Testing
+
+To test the simple interest calculator, execute:
+
+bash simple-interest.sh
+
+Provide the principal amount, annual interest rate,
+and time period when prompted.
